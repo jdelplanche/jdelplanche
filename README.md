@@ -1,63 +1,71 @@
 # Jona Zeno De Smet Delplanche
 
-*Quiet form. Ethical systems. Human dignity.*
+*Calm form, ethical systems, human dignity.*
 
-I design across two materials: **space** and **software**.  
-From **Interior Design at Thomas More**, I learned proportion, atmosphere, and the choreography of human movement.  
-From **Opvoeding en Begeleiding**, I learned psychology, philosophy, and care.
-
-> Good design should feel calm, protect privacy, and respect people.
-
----
-
-## Verified Identity & Core Project
+I design with two materials: **space** and **software**.  
+Interior Design at **Thomas More** shaped my sense of proportion, atmosphere, and spatial rhythm.  
+My roots in **Opvoeding en Begeleiding** keep that work grounded in psychology, philosophy, and care.
 
 <a href="https://rout.be/jdelplanche" target="_blank" rel="noopener"><img src="https://rout.be/api/public/badge/jdelplanche" alt="Verified on ROUT — @jdelplanche" width="220" height="40" loading="lazy" /></a>
-
-ROUT · [rout.be/jdelplanche](https://rout.be/jdelplanche)
 
 ---
 
 ## Philosophy & Digital Sovereignty
 
-Architecture and software share the same responsibility: they shape behavior, attention, and trust.
+Architecture and software both guide how people move, decide, and trust.  
+My practice is intentionally quiet: privacy by default, clarity over noise, autonomy over lock-in, and accountability over opacity.
 
-I work with a simple ethic:
-- privacy by default,
-- clarity over noise,
-- autonomy over lock-in,
-- accountability over opacity.
-
-My orientation is **European digital sovereignty**: open standards, transparent infrastructure, and user-owned identity.
+I build toward **European digital sovereignty**: open standards, transparent infrastructure, and identity that stays with the user.
 
 ---
 
 ## Tech, Design & Sovereignty Stack
 
-### Spatial & Design
-Interior methodology (Thomas More) · human-centered spatial flow · restrained, biophilic visual systems
+**Spatial & Design**  
+Interior methodology (Thomas More) · human-centered spatial flow · restrained biophilic visual systems
 
-### Open-Source & Web
-Git/GitHub · Markdown-first communication · maintainable web architecture
+**Open-Source & Web**  
+Git/GitHub · markdown-first communication · maintainable web architecture
 
-### Privacy-First & European Infrastructure
+**Privacy-First & European Infrastructure**  
 Privacy-by-design · Fediverse-aligned ecosystems · open protocols · self-hostable models
 
 ---
 
-## Connect & Socials
+## Connect
 
-### Professional & Networks
-[LinkedIn](https://www.linkedin.com/in/jdelplanche) · [GitHub](https://github.com/jdelplanche) · X (Twitter) · Threads
+**Professional**  
+◦ [LinkedIn](https://www.linkedin.com/in/jdelplanche)  
+◦ [GitHub](https://github.com/jdelplanche)  
+◦ [X](https://x.com/jdelplanche)  
+◦ [Threads](https://www.threads.net/@jdelplanche)
 
-### Decentralized & Privacy-First (Fediverse)
-[Mastodon](https://mastodon.social/@JDelplanche) · [Bluesky](https://bsky.app/profile/j.delplanche.com) · [Eyou](https://eyou.social/u/jdelplanche) · PeerTube · Pixelfed · OpenVibe · Discord · Other Mastodon instances
+**Decentralized & Fediverse**  
+◦ [Mastodon](https://mastodon.social/@JDelplanche)  
+◦ [Bluesky](https://bsky.app/profile/j.delplanche.com)  
+◦ [Eyou](https://eyou.social/u/jdelplanche)  
+◦ [PeerTube](https://www.peertube.tv/@jdelplanche)  
+◦ [Pixelfed](https://pixelfed.social/jdelplanche)  
+◦ [OpenVibe](https://app.openvibe.social/profile/jdelplanche)  
+◦ [Discord](https://discord.com/users/@jdelplanche)
 
-### Creative, Visual & Personal Presence
-[Instagram](https://www.instagram.com/jona.delplanche?mdxt=dWxsOW00bjJ6N2ll) · Tumblr · VSCO · Pinterest · Twitch · Dailymotion · Spotify · W Social · STIB · Yuka · Philips · Facebook · Reddit
+**Creative & Personal**  
+◦ [Instagram](https://www.instagram.com/jona.delplanche?mdxt=dWxsOW00bjJ6N2ll)  
+◦ [Tumblr](https://jdelplanche.tumblr.com)  
+◦ [VSCO](https://vsco.co/jdelplanche)  
+◦ [Pinterest](https://www.pinterest.com/jdelplanche)  
+◦ [Twitch](https://www.twitch.tv/jdelplanche)  
+◦ [Dailymotion](https://www.dailymotion.com/jdelplanche)  
+◦ [Spotify](https://open.spotify.com/user/jdelplanche)  
+◦ [W Social](https://www.wsocial.com)  
+◦ [STIB](https://www.stib-mivb.be)  
+◦ [Yuka](https://yuka.io)  
+◦ [Philips](https://www.philips.com)  
+◦ [Facebook](https://www.facebook.com/jdelplanche)  
+◦ [Reddit](https://www.reddit.com/user/jdelplanche)
 
 ---
 
 ## Footer
 
-*Build like interior architecture: open where it should breathe, protected where it must remain yours.*
+*Open where ideas should circulate. Protected where identity should remain yours.*
