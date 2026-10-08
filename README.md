@@ -3,8 +3,7 @@
 *Calm form, ethical systems, human dignity.*
 
 I design with two materials: **space** and **software**.  
-Interior Design at **Thomas More** shaped my sense of proportion, atmosphere, and spatial rhythm.  
-My roots in **Opvoeding en Begeleiding** keep that work grounded in psychology, philosophy, and care.
+As a spatial designer and privacy-first technologist, I work with proportion, atmosphere, and human rhythm to create systems that feel safe, legible, and quietly human.
 
 <a href="https://rout.be/jdelplanche" target="_blank" rel="noopener"><img src="https://rout.be/api/public/badge/jdelplanche" alt="Verified on ROUT — @jdelplanche" width="220" height="40" loading="lazy" /></a>
 
@@ -16,6 +15,20 @@ Architecture and software both guide how people move, decide, and trust.
 My practice is intentionally quiet: privacy by default, clarity over noise, autonomy over lock-in, and accountability over opacity.
 
 I build toward **European digital sovereignty**: open standards, transparent infrastructure, and identity that stays with the user.
+
+---
+
+## Current Focus & Learning
+
+**Currently exploring:** The intersection of AI development, art, and culture.  
+**Building & Collaborating:** Actively seeking collaborations and partners for **rout.be** (open-source link infrastructure and QR management).
+
+---
+
+## Ask Me About & Contact
+
+**Ask me about:** Spatial design (Thomas More), privacy-first digital sovereignty, human-centric architecture, and open-source tech stacks.  
+**Get in touch:** <a href="https://rout.be/jdelplanche">rout.be/jdelplanche</a>
 
 ---
 
@@ -32,7 +45,13 @@ Privacy-by-design · Fediverse-aligned ecosystems · open protocols · self-host
 
 ---
 
-## Connect
+## Fun Fact / Philosophy
+
+Prefers the quiet rhythm of analog spatial proportion combined with the digital safety of decentralized, privacy-first networks.
+
+---
+
+## Social Hub
 
 **Professional**  
 ◦ [LinkedIn](https://www.linkedin.com/in/jdelplanche)  
