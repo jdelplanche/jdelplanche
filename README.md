@@ -1,10 +1,11 @@
 # Jona Zeno De Smet Delplanche
 
-*I design space and systems with the same intention: clarity, dignity, and care.*  
-Interior Design at **Thomas More** taught me to shape form, light, rhythm, and human experience.  
-My roots in **Opvoeding en Begeleiding** grounded that practice in psychology, philosophy, and empathy.  
+*Obsidian clarity. Human-centered form. Sovereign systems.*
 
-> **Core ethos:** Good design is ethical, private, and human-centric.
+I work at the intersection of **Interior Design (Thomas More)** and digital architecture: space, proportion, and behavior translated into products that protect dignity.  
+My foundation in **Opvoeding en Begeleiding** anchors every decision in psychology, philosophy, and empathy.
+
+> **Ethos:** good design is ethical, private, and human.
 
 ---
 
@@ -12,40 +13,40 @@ My roots in **Opvoeding en Begeleiding** grounded that practice in psychology, p
 
 <a href="https://rout.be/jdelplanche" target="_blank" rel="noopener"><img src="https://rout.be/api/public/badge/jdelplanche" alt="Verified on ROUT — @jdelplanche" width="220" height="40" loading="lazy" /></a>
 
-- **ROUT profile:** [rout.be/jdelplanche](https://rout.be/jdelplanche)
+- **ROUT:** [rout.be/jdelplanche](https://rout.be/jdelplanche)
 
 ---
 
 ## Philosophy & Digital Sovereignty
 
-Spatial design and software architecture share the same DNA: both define how people move, decide, trust, and belong.
+Spatial design and software architecture share one grammar: both shape movement, attention, trust, and autonomy.
 
-I believe every interface is an ethical surface. Every system should:
-- protect privacy by default,
-- respect human autonomy,
-- reduce cognitive noise,
-- and remain accountable to the people it serves.
+I treat every interface as an ethical boundary. Systems must be:
+- private by default,
+- legible under pressure,
+- respectful of agency,
+- accountable to the people they serve.
 
-My direction is clear: build with open standards, transparent infrastructure, and **European digital sovereignty**—so identity, data, and agency stay with the user.
+My north star is **European digital sovereignty**: open standards, transparent infrastructure, and user-owned identity.
 
 ---
 
 ## Tech, Design & Sovereignty Stack
 
 ### Spatial & Design
-- Interior Design Methodology (Thomas More)
+- Interior design methodology (Thomas More)
 - Human-centered spatial thinking
-- Minimal systems, biophilic flat UI direction
+- Minimal composition and biophilic flat UI direction
 
 ### Open-Source & Web
 - Git / GitHub
-- Markdown-first documentation
-- Web architecture focused on simplicity and maintainability
+- Markdown-first communication
+- Web architecture focused on clarity and maintainability
 
 ### Privacy-First & European Infrastructure
 - Privacy-by-design principles
 - Fediverse-aligned communication models
-- Open protocols, self-hostable ecosystems, user-owned identity
+- Open protocols and self-hostable ecosystems
 
 ---
 
@@ -86,4 +87,4 @@ My direction is clear: build with open standards, transparent infrastructure, an
 
 ## Footer
 
-*Openness without ethics is noise. Privacy without humanity is incomplete. Build quietly, care deeply.*
+*Open by principle. Private by design. Human by default.*
